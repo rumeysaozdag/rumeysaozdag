@@ -33,28 +33,43 @@
 
 <table>
   <tr>
-    <td align="center" width="300"><b>☕ Backend & Languages</b></td>
-    <td align="center" width="300"><b>☁️ Cloud & Database</b></td>
-    <td align="center" width="300"><b>🛠️ Tools & Mobile</b></td>
+    <td align="center" width="25%"><b>☕ Backend & Java</b></td>
+    <td align="center" width="25%"><b>☁️ Database & Cloud</b></td>
+    <td align="center" width="25%"><b>📱 Mobile & AI</b></td>
+    <td align="center" width="25%"><b>🛠️ Tools</b></td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django&perline=3" />
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=2" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux&perline=3" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux&perline=2" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,idea,react,postman&perline=3" />
+        <img src="https://skillicons.dev/icons?i=react,python,django,flask&perline=2" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,idea,postman,vscode&perline=2" />
       </a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+### 🛠️ Other Skills & Experience
+
+* **Architectures:** N-Tier Architecture, Microservices, RESTful APIs
+* **Principles:** OOP (Object Oriented Programming), Clean Code, SOLID
+* **Security & Auth:** JWT (JSON Web Token), Spring Security
+* **Methodologies:** Agile / Scrum Development
 
 ---
 
@@ -77,8 +92,12 @@
 ### 📈 İstatistikler
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumeysaozdag&show_icons=true&theme=tokyonight&hide_border=true&locale=tr&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysaozdag&layout=compact&theme=tokyonight&hide_border=true&locale=tr&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rumeysaozdag&show_icons=true&theme=midnight-purple&hide_border=true&locale=tr" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysaozdag&layout=compact&theme=midnight-purple&hide_border=true&locale=tr" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumeysaozdag&theme=midnight-purple&hide_border=true&locale=tr" alt="streak graph" />
 </div>
 
 <br/>
