@@ -34,29 +34,29 @@
 <table>
   <tr>
     <td align="center" width="25%"><b>📱 Mobile & Frontend</b></td>
-    <td align="center" width="25%"><b>☕ Backend & Admin</b></td>
+    <td align="center" width="25%"><b>☕ Backend & Languages</b></td>
     <td align="center" width="25%"><b>☁️ Cloud & DB</b></td>
     <td align="center" width="25%"><b>🧠 AI & Tools</b></td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&perline=2" />
+        <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,figma&perline=2" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=2" />
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,php,laravel&perline=2" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux&perline=2" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,firebase,docker&perline=2" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,git,idea,postman&perline=2" />
+        <img src="https://skillicons.dev/icons?i=git,postman,idea,eclipse,tensorflow,pytorch&perline=2" />
       </a>
     </td>
   </tr>
@@ -69,7 +69,10 @@
 * **Architectures:** N-Tier Architecture, Microservices, RESTful APIs
 * **Principles:** OOP (Object Oriented Programming), Clean Code, SOLID
 * **Security & Auth:** JWT (JSON Web Token), Spring Security
-* **Methodologies:** Agile / Scrum Development
+* **Admin Panels:** Filament PHP
+* **AI/ML Tools:** YOLOv8, CVAT, Expo Go
+* **Documentation:** Swagger (OpenAPI)
+* **Other Languages:** SAP ABAP
 
 ---
 
