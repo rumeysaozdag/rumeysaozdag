@@ -1,68 +1,88 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Selam!+Ben+Rumeysa;Java+Backend+Developer;Spring+Boot+%26+Microservices" alt="Typing SVG" />
-</div>
+<h1 align="center">Computer Engineer | Backend Developer | Java & Spring Boot</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rumeysaozdag&label=Profil+Görüntülenme&color=blue&style=flat" alt="rumeysaozdag" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Rumeysa+G%C3%BCl+%C3%96zda%C4%9F;Software+Engineer;Building+Scalable+Backends" alt="Typing SVG" />
 </div>
 
----
+<br/>
 
 ### 👩‍💻 Hakkımda
 
-Ankara'da yaşayan, **Java & Spring Boot** teknolojilerinde uzmanlaşan bir Bilgisayar Mühendisiyim.
-Kurumsal projelerde (Kolaysoft, Arca Yazılım) staj deneyimimle **Clean Code**, **Katmanlı Mimari (N-Tier)** ve **Veritabanı Yönetimi** konularında kendimi geliştirdim.
+* 🎓 **Bilgisayar Mühendisi** olarak mezun oldum.
+* 🔭 **Java & Spring Boot** ekosisteminde ölçeklenebilir backend mimarileri üzerine uzmanlaşıyorum.
+* 🌱 **Kolaysoft** ve **Arca Yazılım**'da kurumsal staj deneyimlerimle gerçek hayat projelerinde rol aldım.
+* 💻 **Katmanlı Mimari (N-Tier)**, **Clean Code** ve **Mikroservis** prensiplerini benimsiyorum.
+* ⚡ Mobil tarafta **React Native** ve yapay zeka entegrasyonları (Python) üzerine çalışmalarım var.
 
 ---
 
-### 🛠️ Teknoloji Yığınım (Tech Stack)
+### 📬 İletişim
 
-<div align="center">
-	<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ"></code>
-</div>
-
----
-
-### 🚀 Öne Çıkan Projelerim
-
-| Proje Adı | Açıklama & Teknolojiler |
-| :--- | :--- |
-| **📚 Kütüphane Yönetim Sistemi** | **Java, Spring Boot, PostgreSQL, Hibernate**<br>Katmanlı mimari (N-Tier) ve OOP prensiplerine tam uyumlu backend yapısı. RESTful API ve Clean Code standartları. |
-| **💅 Tırnak Anomalisi Analizi** | **React Native, Python Flask**<br>Bitirme projesi. Mobil arayüz ve Python backend servisi ile görüntü işleme entegrasyonu. |
-| **✅ To-Do List (Görev Yönetimi)** | **Java, Spring Boot**<br>CRUD operasyonları, Exception Handling (Hata Yönetimi) ve API test süreçleri. |
-
----
-
-### 💼 Deneyim
-
-* **Stajyer @ Kolaysoft:** Java, Spring Boot ve MariaDB ile yönetim sistemi geliştirme, JWT entegrasyonu.
-* **Stajyer @ Arca Yazılım:** Python Django ve SAP ABAP ile proje geliştirme, raporlama sistemleri.
-
----
-
-### 📈 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumeysaozdag&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysaozdag&layout=compact&theme=tokyonight&hide_border=true&locale=tr" height="160" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/rumeysaozdag/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
+  <a href="mailto:rumeysaozdag@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
 </div>
 
+<br/>
+
+### 💻 Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="300"><b>☕ Backend & Languages</b></td>
+    <td align="center" width="300"><b>☁️ Cloud & Database</b></td>
+    <td align="center" width="300"><b>🛠️ Tools & Mobile</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django&perline=3" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux&perline=3" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,idea,react,postman&perline=3" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Projelerim
+
+* 📚 **Kütüphane Yönetim Sistemi**
+    * *Teknolojiler:* Java, Spring Boot, PostgreSQL, Hibernate
+    * Katmanlı mimari (N-Tier) ve OOP prensiplerine tam uyumlu backend yapısı. RESTful API servisleri Clean Code standartlarında geliştirildi.
+
+* 💅 **Tırnak Anomalisi Analizi (Bitirme Projesi)**
+    * *Teknolojiler:* React Native, Python Flask, AI/ML
+    * Mobil arayüz React Native ile geliştirildi ve mikroservis mantığıyla çalışan Python görüntü işleme servisine entegre edildi.
+
+* ✅ **To-Do List (Görev Yönetimi)**
+    * *Teknolojiler:* Java, Spring Boot
+    * Gelişmiş CRUD operasyonları, Global Exception Handling ve API test süreçleri uygulandı.
+
+---
+
+### 📈 İstatistikler
+
 <div align="center">
-  <sub>Ziyaret ettiğin için teşekkürler! 🚀</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=rumeysaozdag&show_icons=true&theme=tokyonight&hide_border=true&locale=tr&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysaozdag&layout=compact&theme=tokyonight&hide_border=true&locale=tr&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>© 2026 Rumeysa Gül Özdağ - Coding for Future 🚀</sub>
 </div>
