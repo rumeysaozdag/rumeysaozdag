@@ -1,7 +1,7 @@
 <h1 align="center">Computer Engineer | Backend Developer | Java & Spring Boot</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Rumeysa+G%C3%BCl+%C3%96zda%C4%9F;Software+Engineer;Building+Scalable+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Rumeysa+G%C3%BCl+%C3%96zda%C4%9F;Computer+Engineer;Building+Scalable+Backends" alt="Typing SVG" />
 </div>
 
 <br/>
